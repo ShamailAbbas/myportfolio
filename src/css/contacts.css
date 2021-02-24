@@ -1,0 +1,38 @@
+.contactheading {
+  margin: 1em 5em -0.5em 2em;
+  color: white;
+  opacity: 0.6;
+}
+.contactscontainer {
+  margin: 1em 3em;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(175px, 1fr));
+  background-color: #162d54;
+  border-radius: 0.3em;
+  row-gap: 0.7em;
+  column-gap: 0.7em;
+  justify-content: center;
+  align-items: center;
+  padding: 0em 0.5em;
+}
+.contacts {
+  border-radius: 0.3em;
+  justify-content: center;
+  align-items: flex-start;
+  color: white;
+  opacity: 0.6;
+  display: flex;
+  justify-content: center;
+}
+/* mediaquery */
+@media only screen and (min-width: 768px) {
+  .contactscontainer {
+    margin: 1em 10em;
+    padding: 1em 0.5em;
+  }
+  .contactheading {
+    margin: 1em 5em -0.5em 6.8em;
+    color: white;
+    opacity: 0.6;
+  }
+}

@@ -1,0 +1,76 @@
+.hero {
+  padding: 0.7em 3em;
+}
+.firstline {
+  color: white;
+  opacity: 0.5;
+  padding: 1em 0em;
+}
+.name {
+  color: white;
+  max-width: 10em;
+  opacity: 0.8;
+}
+.intro {
+  color: white;
+  opacity: 0.6;
+}
+.introparagraph {
+  color: white;
+  opacity: 0.6;
+  margin-top: 0.5em;
+  line-height: 1.5em;
+  max-width: 28em;
+}
+.getintouch {
+  margin: 5em 2em;
+  padding: 1.2em 4em;
+  background-color: var(--lightprimarycolor);
+  color: white;
+  border: 1px solid white;
+  border-radius: 0.2em;
+  opacity: 0.6;
+}
+.getintouch:hover {
+  opacity: 1;
+}
+
+/* mediaquery */
+@media only screen and (min-width: 768px) {
+  .hero {
+    margin: -2em 8em;
+  }
+
+  .firstline {
+    color: white;
+    opacity: 0.5;
+    font-size: 1em;
+  }
+  .name {
+    color: white;
+    max-width: 10em;
+    font-size: 4em;
+  }
+  .intro {
+    color: white;
+    opacity: 0.6;
+    font-size: 4em;
+  }
+  .introparagraph {
+    color: white;
+    opacity: 0.6;
+    margin-top: 0.5em;
+    line-height: 1.5em;
+    max-width: 28em;
+    font-size: 1.2em;
+  }
+  .getintouch {
+    margin: 3em 2em;
+    padding: 1.5em 2.5em;
+    background-color: var(--lightprimarycolor);
+    color: white;
+    border: 1px solid white;
+    border-radius: 0.2em;
+    cursor: pointer;
+  }
+}
