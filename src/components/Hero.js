@@ -7,7 +7,7 @@ const Hero = () => {
       <h2 className='name'>Shamail Abbas.</h2>
       <h2 className='intro'>I build things for the web.</h2>
       <p className='introparagraph'>
-        I'm a developer based in Boston, MA specializing in building (and
+        I'm a developer based in Karachi, Pakistan specializing in building (and
         occasionally designing) exceptional websites, applications, and
         everything in between.
       </p>

@@ -7,7 +7,7 @@ const About = () => {
       <div className='aboutcontent'>
         <h2 className='aboutme'>About Me</h2>
         <p className='aboutpara'>
-          Hello! I'm Shamail, a developer based in Boston, MA.
+          Hello! I'm Shamail, a developer based in Karachi, Pakistan.
         </p>
         <p className='aboutpara'>
           I enjoy creating things that live on the internet, whether that be
@@ -15,9 +15,10 @@ const About = () => {
           build products that provide pixel-perfect, performant experiences.
         </p>
         <p className='aboutpara'>
-          Shortly after graduating from Northeastern University, I joined the
-          engineering team at Upstatement where I work on a wide variety of
-          interesting and meaningful projects on a daily basis.
+          Shortly after graduating from Mirpur University of Science and
+          Technology, MUST AJK I joined the engineering team at ScaleX where I
+          work on a wide variety of interesting and meaningful projects on a
+          daily basis.
         </p>
         <p className='aboutpara'>
           Here are a few technologies I've been working with recently:
