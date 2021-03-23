@@ -6,6 +6,7 @@ import Navbar from './components/Navbar'
 import Aboutpage from './components/Aboutpage'
 import Workpage from './components/Workpage'
 import Contactpage from './components/Contactpage'
+import "./App.css"
 const App = () => {
   return (
     <>
