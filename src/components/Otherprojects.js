@@ -35,12 +35,16 @@ const Otherprojects = () => {
         >
         <div className='griditems'>
           <h3>.....AirBnb Clone.....</h3>
+    <br/>
+    <br/>
+    <br/>
           <p>
             A Frontend  Clone with following features <br />
             <li>DatePicker</li>
             <li> Search</li>
             <li>Explore Nearby</li>
-            <li>Persistant Login</li>
+          <br/>
+    <br/>
            
             <h3>Tech used to bulid this project</h3>
             <li>Material Ui</li>
@@ -53,15 +57,15 @@ const Otherprojects = () => {
         <div className='griditems'>
           <h3>Tinder Clone using React Context Api</h3>
           <p>
-            A fully functional Tinder Clone having following features
+            A fully functional Youtube Clone having following features
             <br />
-            <li>User Authantication</li>
-            <li>UserDashboard</li>
-            <li>Swipe Functionality</li>
-            <li>Chat</li>
-            <li>Database Integration</li>
+         <br/>  
+    <br/>
+    <br/>
+          <h2> Deploy soon...</h2>
+    <br/>
             <h3>Tech used to bulid this project</h3>
-            <li>Firebase</li>
+            <li>Mongodb</li>
             <li>Reactjs</li>
             <li>React redux</li>
             <li>Nodejs</li>
