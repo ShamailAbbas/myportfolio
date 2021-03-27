@@ -38,7 +38,7 @@ const Otherprojects = () => {
     <br/>
     <br/>
     <br/>
-          <p>
+              <p>
             A Frontend  Clone with following features <br />
             <li>DatePicker</li>
             <li> Search</li>
@@ -55,13 +55,13 @@ const Otherprojects = () => {
         </div>
 </a>
         <div className='griditems'>
-          <h3>Tinder Clone using React Context Api</h3>
+          <h3>Youtube Clone with Complete Backend support</h3>
           <p>
             A fully functional Youtube Clone having following features
             <br />
          <br/>  
-    <br/>
-    <br/>
+   
+    
           <h2> Deploy soon...</h2>
     <br/>
             <h3>Tech used to bulid this project</h3>
