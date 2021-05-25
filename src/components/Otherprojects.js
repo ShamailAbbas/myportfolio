@@ -28,8 +28,38 @@ const Otherprojects = () => {
             </p>
           </div>
         </a>
-
+ <a
+          href='https://airbnbclonebyshamail.netlify.app/'
+          rel='noreferrer'
+          target='_blank'
+        >
         <div className='griditems'>
+          <h3>.....AirBnb Clone.....</h3>
+    <br/>
+    <br/>
+    <br/>
+              <p>
+            A Frontend  Clone with following features <br />
+            <li>DatePicker</li>
+            <li> Search</li>
+            <li>Explore Nearby</li>
+          <br/>
+    <br/>
+           
+            <h3>Tech used to bulid this project</h3>
+            <li>Material Ui</li>
+            <li>Reactjs</li>
+            <li>React redux</li>
+            
+          </p>
+        </div>
+</a>
+     <a
+          href='https://gmailclonebyshamail.netlify.app/'
+          rel='noreferrer'
+          target='_blank'
+        >
+      <div className='griditems'>
           <h3>Gmail Clone using Firebase and React Redux</h3>
           <p>
             A fully functional Gmail Clone with following features <br />
@@ -45,19 +75,20 @@ const Otherprojects = () => {
             <li>Nodejs</li>
           </p>
         </div>
-
+    </a>
+    
         <div className='griditems'>
-          <h3>Tinder Clone using React Context Api</h3>
+          <h3>Youtube Clone with Complete Backend support</h3>
           <p>
-            A fully functional Tinder Clone having following features
+            A fully functional Youtube Clone having following features
             <br />
-            <li>User Authantication</li>
-            <li>UserDashboard</li>
-            <li>Swipe Functionality</li>
-            <li>Chat</li>
-            <li>Database Integration</li>
+         <br/>  
+   
+    
+          <h2> Deploy soon...</h2>
+    <br/>
             <h3>Tech used to bulid this project</h3>
-            <li>Firebase</li>
+            <li>Mongodb</li>
             <li>Reactjs</li>
             <li>React redux</li>
             <li>Nodejs</li>
@@ -106,23 +137,7 @@ const Otherprojects = () => {
           </p>
         </div>
 
-        <div className='griditems'>
-          <h3>Pinterest Clone using React Redux</h3>
-          <p>
-            A fully functional Pinterest having following features
-            <br />
-            <li>User Authantication</li>
-            <li>UserDashboard</li>
-            <li>AdminDashboard</li>
-            <li>Sorting</li>
-            <li>Database Integration</li>
-            <h3>Tech used to bulid this project</h3>
-            <li>Firebase</li>
-            <li>Reactjs</li>
-            <li>React redux</li>
-            <li>Nodejs</li>
-          </p>
-        </div>
+        
       </div>
     </div>
   )
