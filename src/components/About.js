@@ -1,5 +1,5 @@
 import React from "react";
-import aaa from "../images/aaa.jpg";
+import aaa from "../images/aaa.JPG";
 import "../css/about.css";
 const About = () => {
   return (
