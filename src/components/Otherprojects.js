@@ -1,6 +1,6 @@
 import React from "react";
 import "../css/others.css";
-import { a } from "react-router-dom";
+
 const Otherprojects = () => {
   return (
     <div className="archivesection">
@@ -80,25 +80,21 @@ const Otherprojects = () => {
           target="_blank"
         >
           <div className="griditems">
-            <h3>Fiverr Clone with Complete Backend support</h3>
+            <h3>Fiverr Clone with Backend</h3>
             <p>
               A fully functional Fiverr Clone having following features
               <br />
-              <br />
+          
               <li>User Authantication</li>
               <li>Place Order</li>
-              <li>Create Gigs</li>
-              <li>Persistant Login</li>
+              <li>Create Gigs</li>              
               <li>Database Integration</li>
-              <li>Payment Integration</li>
-              <li>Job Posting</li>
-              <li>Submit Proposal</li>
+              <li>Payment Integration</li>              
               <li>Message Client</li>
               <br />
               <h3>Tech used to bulid this project</h3>
               <li>MySQL</li>
-              <li>Reactjs</li>
-              <li>React redux</li>
+              <li>Reactjs with React redux</li>              
               <li>Nodejs</li>
               <li>Graphql</li>
             </p>
@@ -129,23 +125,25 @@ const Otherprojects = () => {
           </div>
         </a>
 
-        <div className="griditems">
-          <h3>Zoom Clone using React React-Redux</h3>
-          <p>
-            A fully functional Zoom Clone having following features
-            <br />
-            <li>User Authantication</li>
-            <li>UserDashboard</li>
-            <li>AdminDashboard</li>
-            <li>Chat Rooms</li>
-            <li>Database Integration</li>
-            <h3>Tech used to bulid this project</h3>
-            <li>Firebase</li>
-            <li>Reactjs</li>
-            <li>React redux</li>
-            <li>Nodejs</li>
-          </p>
-        </div>
+        <a href="https://areagg.netlify.app/" rel="noreferrer" target="_blank">
+          <div className="griditems">
+            <h3>Areagg-A Social Media Platform</h3>
+            <p>
+              A fully functional Social Media Platform having following features
+              <br />
+              <li>User Authantication</li>
+              <li>Upload Posts</li>
+              <li>Follow/UnFollow users</li>
+              <li>Chat Rooms</li>
+              <li>post comments</li>
+              <h3>Tech used to bulid this project</h3>
+              <li>Mongodb</li>
+              <li>Reactjs</li>
+              <li>React redux</li>
+              <li>Nodejs</li>
+            </p>
+          </div>
+        </a>
       </div>
     </div>
   );

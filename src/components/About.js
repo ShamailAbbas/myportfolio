@@ -25,7 +25,7 @@ const About = () => {
       </div>
       <div className="photosection">
         <div className="photocontainer ">
-          <img src={aaa} alt={aaa} className="myphoto" />
+          <img src={aaa} alt="this is pic" className="myphoto" />
         </div>
       </div>
     </div>
